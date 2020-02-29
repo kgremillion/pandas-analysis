@@ -3,9 +3,9 @@
 ## Analyzes Dataset of Players, Items, & Purchases from Video Game Heros of Pymoli
 
 ### File will show:
-**Find total number of players
+*Find total number of players
 
-### Purchasing Analysis (Total)
+#### Purchasing Analysis (Total)
 
 * Number of Unique Items
 * Average Purchase Price
