@@ -4,7 +4,9 @@
 
 ### *Conclusions Drawn From Dataset*
 * *The first conclusion is based on the gender demographics. The video game players are predominantly male, holding a percentage of 84% of players, overshadowing 14% of female players and nearly 2% of others.*
+
 * *The second conslusion is regarding the age demographics, based on age groups from >10-40+ about 45% of players are between the age of 20-24 and the next largest group percentage is about 19% in the range of 15-19. The vast majority of players are between the ages of 15 and 24.* 
+
 * *The final conclusion is for the purchase analysis. Regarding gender, females have a substantially higher average purchase per person meaning they are more likely to purchase items than males and others. Regarding age, the highest average purchase per person falls in the range of 35-39 and then >10.*
 
 ### File will show:
