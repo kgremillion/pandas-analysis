@@ -3,9 +3,10 @@
 ## Analyzes Dataset of Players, Items, & Purchases from Video Game Heros of Pymoli
 
 ### File will show:
-*Find total number of players
 
-#### Purchasing Analysis (Total)
+* Find total number of players
+
+#### Player Purchasing Analysis
 
 * Number of Unique Items
 * Average Purchase Price
@@ -14,21 +15,19 @@
 
 ### Gender Demographics
 
-* Percentage and Count of Male Players
-* Percentage and Count of Female Players
-* Percentage and Count of Other / Non-Disclosed
+* Percentage and count of male, female, & other/undisclosed
 
-### Purchasing Analysis (Gender)
+### Gender Purchasing Analysis
 
-* The below each broken by gender
+* For each gender, file shows how to find:
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
   * Average Purchase Total per Person by Gender
 
-### Age Demographics
+### Age Demographics by Age Group
 
-* The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.)
+* For age group broken into bins of 4 years, file shows how to find:
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -36,7 +35,7 @@
 
 ### Top Spenders
 
-* Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
+* File shows how to identify the the top 5 spenders:
   * SN
   * Purchase Count
   * Average Purchase Price
