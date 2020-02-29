@@ -66,5 +66,5 @@
   * Item Price
   * Total Purchase Value
 
-*File was created in Jupyter Notebook
+*File was created in Jupyter Notebook*
 
