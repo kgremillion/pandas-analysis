@@ -1,6 +1,11 @@
 # Pandas Homework - Heros of Pymoli
 
-## Analyzes Dataset of Players, Items, & Purchases from Video Game Heros of Pymoli
+## Analyzes Dataset from Video Game Heros of Pymoli
+
+### *Conclusions Drawn From Dataset*
+* *The first conclusion is based on the gender demographics. The video game players are predominantly male, holding a percentage of 84% of players, overshadowing 14% of female players and nearly 2% of others.*
+* *The second conslusion is regarding the age demographics, based on age groups from >10-40+ about 45% of players are between the age of 20-24 and the next largest group percentage is about 19% in the range of 15-19. The vast majority of players are between the ages of 15 and 24.* 
+* *The final conclusion is for the purchase analysis. Regarding gender, females have a substantially higher average purchase per person meaning they are more likely to purchase items than males and others. Regarding age, the highest average purchase per person falls in the range of 35-39 and then >10.*
 
 ### File will show:
 
@@ -19,7 +24,7 @@
 
 ### Gender Purchasing Analysis
 
-* For each gender, file shows how to find:
+* For each gender:
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -27,7 +32,7 @@
 
 ### Age Demographics by Age Group
 
-* For age group broken into bins of 4 years, file shows how to find:
+* For age group broken into bins of 4 years:
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
@@ -35,15 +40,15 @@
 
 ### Top Spenders
 
-* File shows how to identify the the top 5 spenders:
-  * SN
+* Identify the the top 5 spenders & find:
+  * Name
   * Purchase Count
   * Average Purchase Price
   * Total Purchase Value
 
 ### Most Popular Items
 
-* Identify the 5 most popular items by purchase count, then list (in a table):
+* Identify 5 most popular items & find:
   * Item ID
   * Item Name
   * Purchase Count
@@ -52,17 +57,12 @@
 
 ### Most Profitable Items
 
-* Identify the 5 most profitable items by total purchase value, then list (in a table):
+* Identify the 5 most profitable items & find:
   * Item ID
   * Item Name
   * Purchase Count
   * Item Price
   * Total Purchase Value
 
-As final considerations:
-
-* You must use the Pandas Library and the Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-* You must include a written description of three observable trends based on the data.
-* See [Example Solution](HeroesOfPymoli/HeroesOfPymoli_starter.ipynb) for a reference on expected format.
+*File was created in Jupyter Notebook
 
