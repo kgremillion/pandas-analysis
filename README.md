@@ -9,7 +9,7 @@
 
 * *The final conclusion is for the purchase analysis. Regarding gender, females have a substantially higher average purchase per person meaning they are more likely to purchase items than males and others. Regarding age, the highest average purchase per person falls in the range of 35-39 and then >10.*
 
-### File will show:
+### File will show how to find:
 
 * Find total number of players
 
