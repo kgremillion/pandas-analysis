@@ -11,7 +11,7 @@
 
 ### File will show how to find:
 
-* Find total number of players
+* Total number of players
 
 #### Player Purchasing Analysis
 
