@@ -1,6 +1,4 @@
-# Pandas Homework - Heros of Pymoli
-
-## Analyzes Dataset from Video Game Heros of Pymoli
+# Analyzes Dataset from Video Game Heros of Pymoli with Pandas
 
 ### *Conclusions Drawn From Dataset*
 * *The first conclusion is based on the gender demographics. The video game players are predominantly male, holding a percentage of 84% of players, overshadowing 14% of female players and nearly 2% of others.*
